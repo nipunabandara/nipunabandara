@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nipunabandara
 - 👀 I’m interested in JAVA,C++,JS
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on JAVA beginner
+- 💞️ I’m looking to collaborate on JAVA beginners
   
 
 <!---
